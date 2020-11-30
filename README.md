@@ -11,13 +11,13 @@ A simple TODO application created using React, React-routing and mock server. Us
 
 # UI:
 ### Home Page:
-![alt text](https://github.com/parthasn/TODO-application/blob/main/home_page.jpg?raw=true)
+![home_page](images/home_page.JPG)
 
 ### Tasks Page:
-![alt text](https://github.com/parthasn/TODO-application/blob/main/tasks_pge.jpg?raw=true)
+![home_page](images/tasks_pge.JPG)
 
 ### Task Page:
-![alt text](https://github.com/parthasn/TODO-application/blob/main/task_page.jpg?raw=true)
+![home_page](images/task_page.JPG)
 
 
 
