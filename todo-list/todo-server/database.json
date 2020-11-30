@@ -1,0 +1,24 @@
+{
+  "task": [
+    {
+      "id": "e71763b3-04fd-4ad1-a1eb-8e5b1442572d",
+      "title": "Buy chocolates",
+      "status": false
+    },
+    {
+      "id": "b24904ca-8bb9-46fc-8ccd-fb461e3bd4f2",
+      "title": "Buy Sugar",
+      "status": true
+    },
+    {
+      "id": "6fab44cf-a6b6-485b-ac63-02be84bde878",
+      "title": "Buy Flour",
+      "status": false
+    },
+    {
+      "id": "ba9f6846-69d7-4595-9253-759f7465dd39",
+      "title": "Buy Paneer",
+      "status": false
+    }
+  ]
+}
