@@ -14,10 +14,10 @@ A simple TODO application created using React, React-routing and mock server. Us
 <img src = "images/home_page.JPG" alt = "home-page"/>
 
 ### Tasks Page:
-<img src = "images/tasks_pge.JPG" alt = "home-page"/>
+<img src = "images/tasks_pge.JPG" alt = "tasks-page"/>
 
 ### Task Page:
-<img src = "images/task_page.JPG" alt = "home-page"/>
+<img src = "images/task_page.JPG" alt = "task-page"/>
 
 
 
